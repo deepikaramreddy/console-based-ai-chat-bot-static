@@ -1,0 +1,58 @@
+User selected: 1
+User selected: 2
+User chose topic: database
+User chose subtopic: postgresql
+User query: what is post here
+User chose subtopic: no
+User chose subtopic: database
+User chose subtopic: exit
+User selected: 2
+User chose topic: 1
+User chose topic: database
+User chose subtopic: exit
+User selected: deepikaramreddy
+User selected: 2
+User chose topic: database
+User chose subtopic: mysql
+User query: hello
+User chose topic: backend
+User chose subtopic: nodejs
+User chose topic: exit
+User selected: 2
+User chose topic: database
+User chose subtopic: postgreqsl
+User chose subtopic: back
+User chose topic: database
+User chose subtopic: postgresql
+User query: i am not understanding
+User chose subtopic: exit
+User selected: 3
+User selected: 2
+User chose topic: database
+User chose subtopic: mysql
+User query: h
+User chose subtopic: no
+User chose subtopic: no
+User selected: 2
+User chose topic: database
+User chose subtopic: mysql
+User query: fh
+User selected: 2
+User chose topic: database
+User chose subtopic: myqsl
+User chose subtopic: back
+User chose topic: database
+User chose subtopic: mysql
+User query: nno
+User chose topic: frontend
+User chose subtopic: html
+User chose topic: exit
+User selected: 2
+User chose topic: database
+User chose subtopic: postgresql
+User query: hello
+User chose topic: frame works
+User chose topic: frameworks
+User chose subtopic: spring
+User chose topic: exit
+User selected: exit
