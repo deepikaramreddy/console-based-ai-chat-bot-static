@@ -11,11 +11,11 @@ A Java-based chatbot that allows users to:
    ```bash
    javac src/*.java
 The file structure is :
-chatbox:readme.txt
-       :resources
+chatbox::readme.txt
+       ::resources
           :conversation_history.java
           :user_data
-       :src
+       ::src
            :chatbot
            :user
            
