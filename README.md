@@ -10,3 +10,13 @@ A Java-based chatbot that allows users to:
 1. Compile the project:
    ```bash
    javac src/*.java
+The file structure is :
+chatbox:readme.txt
+       :resources
+          :conversation_history.java
+          :user_data
+       :src
+           :chatbot
+           :user
+           
+       
